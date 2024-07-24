@@ -1,0 +1,1 @@
+# ts-generic-infer-demo
